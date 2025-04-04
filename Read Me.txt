@@ -1,0 +1,5 @@
+Arrow keys to move.
+Z : Yes
+X : No
+
+Mouse control works as well.
